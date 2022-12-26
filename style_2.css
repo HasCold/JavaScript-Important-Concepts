@@ -1,0 +1,14 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    display: flex;
+    margin: 2rem 1.5rem;
+    padding: 10px;
+    border-radius: 0.5rem;
+}
+.btn{
+    margin: 2rem 1.5rem;
+    padding: 10px 15px;
+    border-radius: 0.5rem;
+}
